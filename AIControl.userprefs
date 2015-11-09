@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\End.cs">
+    <Files>
+      <File FileName="Assets\Scripts\OutsideGuardAI.cs" Line="77" Column="40" />
+      <File FileName="Assets\Scripts\InsideGuard.cs" Line="52" Column="20" />
+      <File FileName="Assets\End.cs" Line="21" Column="28" />
+      <File FileName="Assets\Scripts\GameControl.cs" Line="27" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
